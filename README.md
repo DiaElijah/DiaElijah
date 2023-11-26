@@ -1,5 +1,7 @@
 ### Hey hou! 👋 I'm Elijah, but not Wood 🫥
 
+![Elijah](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3dtcjZncmhidGM2Z3pueDE5cjdkeTMxbW5zbGM1M2hsbDdoMDV2diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gYerXm7Obt1kMf7ZLU/giphy.gif)
+
 **🔭 I’m currently learning:**
  - Data Analysis
  - Data engineering
