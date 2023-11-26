@@ -1,4 +1,4 @@
-### Hey hou! 👋 I'm Elijah, but not Wood) 
+### Hey hou! 👋 I'm Elijah, but not Wood 🫥
 
 [![codewars](https://www.codewars.com/users/Elijah_Di/badges/large)](https://www.codewars.com/users/Elijah_Di) 
 <!--
