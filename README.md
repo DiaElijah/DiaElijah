@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hey hou! 👋 I'm Elijah, but not Wood) 
 
-[![codewars](https://www.codewars.com/users/Elijah_Di/badges/small)](https://www.codewars.com/users/Elijah_Di) 
+[![codewars](https://www.codewars.com/users/Elijah_Di/badges/large)](https://www.codewars.com/users/Elijah_Di) 
 <!--
 **DiaElijah/DiaElijah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
