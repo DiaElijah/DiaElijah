@@ -1,6 +1,6 @@
 ### Hey hou! 👋 I'm Elijah, but not Wood 🫥
 
-##**🔭 I’m currently learning:**
+**🔭 I’m currently learning:**
  - Data Analysis
  - Data engineering
  - Machine lerning
