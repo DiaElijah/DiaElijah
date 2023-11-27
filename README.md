@@ -1,5 +1,4 @@
-### Hey hou! 👋 
-### I'm Elijah, but not Wood 🫥
+### Hey hou!  👋  I'm Elijah, but not Wood 😎
 
 **🔭 I’m currently learning:**
  - Data Analysis
