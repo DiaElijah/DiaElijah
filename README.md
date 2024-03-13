@@ -3,7 +3,7 @@
 **🔭 I’m currently learning:**
  - Data Analysis
  - Data engineering
- - Machine lerning
+ - Machine learning
 
 **💻 You can text me:**
 
