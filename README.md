@@ -1,9 +1,6 @@
 ### Hey hou!  👋  I'm Elijah, but not Wood 😎
 
-**🔭 I’m currently learning:**
- - Data Analysis
- - Data engineering
- - Machine learning
+**😎 My passion is ML | NLP | CV**
 
 **💻 You can text me:**
 
