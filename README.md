@@ -1,4 +1,4 @@
-### Hey hou!  👋  I'm Elijah, but not Wood 😎
+### Hey!  👋  I'm Elijah, but not Wood 😎
 
 **My passion is ML | NLP | CV**
 
