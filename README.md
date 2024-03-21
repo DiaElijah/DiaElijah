@@ -1,6 +1,6 @@
 ### Hey hou!  👋  I'm Elijah, but not Wood 😎
 
-**😎 My passion is ML | NLP | CV**
+**My passion is ML | NLP | CV**
 
 **💻 You can text me:**
 
